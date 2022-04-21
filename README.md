@@ -1,2 +1,2 @@
-# PPM-
-Print your photos monthly!
+# EzPPM
+Easily print your photos monthly!
